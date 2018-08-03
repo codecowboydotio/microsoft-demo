@@ -1,3 +1,5 @@
+create database sadata
+go
 use sadata;
 create table sadatasets(
 	dataset_title VARCHAR(255), 
